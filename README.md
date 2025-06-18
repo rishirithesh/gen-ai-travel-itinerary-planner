@@ -13,9 +13,16 @@ LLM Integration : Utilizing a language model to generate the final itenary
 ## Tech Used
 
 groqcloud - For generating large language model API Key
+
 python/google collab - For Coding the Application
+
 gradio - Interface for running the application
+
 langchain - To build the application using the large language model
 
 ## License
 This is licensed under MIT License. Use of the code is valid with proper crediting.
+
+### About Me
+
+
